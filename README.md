@@ -6,5 +6,6 @@ Installation:
 - Install Pillow: sudo apt-get install python3-pil
 - Clone PCD8544 library repo
 - Install PCD8544 library: sudo pip3 install adafruit-circuitpython-pcd8544
+- Follow instructions here: https://learn.adafruit.com/nokia-5110-3310-monochrome-lcd/python-usage
 - (*Maybe not) Clone Adafruit Nokia LCD repo (https://github.com/adafruit/Adafruit_Nokia_LCD.git)
 - Add line to /etc/rc.local to run on startup
